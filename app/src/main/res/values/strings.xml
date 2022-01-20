@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuadraticEquations</string>
+
+    <string name="sqtrD">корень из дискриминанта</string>
+    <string name="dicriminant">дискриминант</string>
+    <string name="sqrb">квадрат B</string>
+    <string name="AC_4">4АС</string>
+    <string name="root1">корень 1</string>
+    <string name="root2">корень 2</string>
+
+</resources>

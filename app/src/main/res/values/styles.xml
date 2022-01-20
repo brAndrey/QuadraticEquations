@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="calculations">
+        <item name="android:textSize">18sp</item>
+        <item name="android:layout_weight">4</item>
+        <item name="android:textColor">@color/black</item>
+
+    </style>
+</resources>
